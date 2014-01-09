@@ -1,0 +1,5 @@
+name = SipMod
+description = Modified the checkout pane for shipping methods
+core = 7.x
+package = AG modules
+files[] = sipmod.module
